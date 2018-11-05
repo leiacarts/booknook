@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Book from './Book';
 
 class Main extends Component {
   render() {
@@ -14,10 +15,7 @@ class Main extends Component {
               <div className="bookshelf-books">
                 <ol className="books-grid">
                   <li>
-
-                  </li>
-                  <li>
-
+                    <Book />
                   </li>
                 </ol>
               </div>
@@ -27,10 +25,7 @@ class Main extends Component {
               <div className="bookshelf-books">
                 <ol className="books-grid">
                   <li>
-
-                  </li>
-                  <li>
-
+                    <Book />
                   </li>
                 </ol>
               </div>
@@ -40,13 +35,7 @@ class Main extends Component {
               <div className="bookshelf-books">
                 <ol className="books-grid">
                   <li>
-
-                  </li>
-                  <li>
-
-                  </li>
-                  <li>
-                    
+                    <Book />
                   </li>
                 </ol>
               </div>
