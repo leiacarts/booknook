@@ -1,4 +1,4 @@
-# MyReads Project
+# BOOKNOOK
 
 ## Table of Contents
 
@@ -8,14 +8,15 @@
 * [Installation](#installation)
 * [Built With](#built-with)
 * [Acknowledgements](#acknowledgements)
+* [Screenshots](#screenshots)
 
 ## Overview
 
-This is the final assessment project for Udacity's React Fundamentals course. For the MyReads book tracking app project, a static site was converted to a web application equipped with a search function and capable of recalling bookshelf label changes made to items (in this case, books).
+BOOKNOOK is a React-based personal library that allows users to shift books between shelves: currently reading, read, and to read. Users can search for books and add labels to their favorite titles.
 
 ## Learning Objectives
 
-To use React to create an application that allows a user to search and assign books to specific shelves.
+This is the final assessment project for Udacity's React Fundamentals course. For the MyReads book tracking app project, a static site was converted to a web application equipped with a search function and capable of recalling bookshelf label changes made to items (in this case, books). Objectives included using React to create an application that allows a user to search and assign books to specific shelves.
 
 ## Features
 
@@ -25,7 +26,7 @@ To use React to create an application that allows a user to search and assign bo
 
 ## Installation
 
-Download project repo. Start the development server with `npm start`.
+Download project repo. Open the project file. Install npm dependencies in terminal using the command `npm install` and start the development server with `npm start`.
 
 ## Built with
 
@@ -39,3 +40,8 @@ Download project repo. Start the development server with `npm start`.
 * [Udacity's React Fundamentals course + repository](https://github.com/udacity/reactnd-contacts-complete)
 * [Doug Brown's Study Session](https://www.youtube.com/watch?v=OcL7-7cRpkQ)
 * [Maeva's Study Jam](https://www.youtube.com/watch?v=i6L2jLHV9j8)
+
+## Screenshots
+
+![screenshot](https://github.com/leiacarts/booknook/blob/master/booknook1.png)
+![screenshot](https://github.com/leiacarts/booknook/blob/master/booknook2.png)
